@@ -4,5 +4,5 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
-  return $(`div .pics`)
+  return $(`img [alt=the beatles making faces]`)
 }
